@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    /* White text */
+    margin: 0;
+    padding: 0;
+    background-image: url('MH_background1.jpg');
+    /* Replace with your space background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    /* Semi-transparent dark overlay for header */
+}
+
+header h1 {
+    font-size: 40px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    /* Yellow headings */
+}
+
+header img {
+    width: 275px;
+    border-radius: 75%;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.7);
+    /* Soft glow effect */
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.links,
+.quotes {
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent dark overlay for content sections */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.links h2,
+.quotes h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    /* Yellow headings */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    padding-left: 20px;
+    /* Indent list items */
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #ffffff;
+    /* Yellow links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    /* White links on hover */
+}
+
+blockquote {
+    font-style: italic;
+    margin-bottom: 20px;
+    color: #fff;
+    /* White text for quotes */
+}
+
+cite {
+    display: block;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+.circular-button {
+    position: fixed;
+    top: 20px;
+    /* Adjust as needed */
+    left: 20px;
+    /* Adjust as needed */
+    width: 70px;
+    /* Adjust as needed */
+    height: 70px;
+    /* Adjust as needed */
+    border-radius: 50%;
+    background-color: #007bff;
+    /* Blue color */
+    color: white;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    /* Add shadow for depth */
+    background-image: url('bits_logo_trans.png');
+    /* Replace 'your-image-url.jpg' with the path to your image */
+    background-size: cover;
+    background-color: transparent;
+    /* Set background color to transparent */
+}
