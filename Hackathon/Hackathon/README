@@ -7,10 +7,10 @@ Sohan Sri Dutta
 Debidutta Dash
 
 
-Welcome to SpaceHub!
+Welcome to the Bitsian Helper!
 
 
-SpaceHub is a space-themed website designed to provide you with a cosmic experience while offering useful features and services. Built using vanilla JavaScript, HTML, CSS, and Firebase for backend support, SpaceHub aims to bring the wonders of the universe to your fingertips.
+Bitsian Helper is a space-themed website designed to provide you with a cosmic experience while offering useful features and services. Built using vanilla JavaScript, HTML, CSS, and Firebase for backend support, SpaceHub aims to bring the wonders of the universe to your fingertips.
 
 Features:
 
@@ -30,28 +30,3 @@ Mental Health Support: Visit the Mental Health Support page for important resour
 
 Bits GPT Chatbot: Engage with Bits GPT by asking questions related to academics or campus life. Bits GPT is here to help!
 
-Getting Started:
-
-To run SpaceHub locally on your machine, follow these steps:
-
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/SpaceHub.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd SpaceHub
-Open the index.html file in your preferred web browser to launch SpaceHub.
-
-Contributing:
-
-We welcome contributions from the community to enhance SpaceHub further. If you have any ideas, bug fixes, or new features to propose, feel free to submit a pull request.
-
-Credits:
-
-SpaceHub was created by [Your Name].
-Doggo images sourced from [Source Name].
-Bits GPT chatbot powered by OpenAI's GPT technology.
