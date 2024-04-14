@@ -7,4 +7,51 @@ Sohan Sri Dutta
 Debidutta Dash
 
 
-Hi, our aim was to develop an overall space theme
+Welcome to SpaceHub!
+
+
+SpaceHub is a space-themed website designed to provide you with a cosmic experience while offering useful features and services. Built using vanilla JavaScript, HTML, CSS, and Firebase for backend support, SpaceHub aims to bring the wonders of the universe to your fingertips.
+
+Features:
+
+Google Sign-In Authentication: Sign in securely using your Google account through Firebase authentication, ensuring a seamless and safe experience.
+
+Mental Health Support: We care about your well-being. Our Mental Health Support page provides important suicide helplines and, to brighten your day, adorable doggo pictures.
+
+Bits GPT Academic Chatbot: Introducing Bits GPT, our cutting-edge academic chatbot designed specifically for the Bits Pilani Hyderabad campus. Bits GPT can answer a wide range of questions related to academics, campus life, and more, providing valuable assistance whenever you need it.
+
+How to Use:
+
+Sign In: Click on the "Sign In" button to log in using your Google account.
+
+Explore: Navigate through the space-themed interface to access different sections of the website.
+
+Mental Health Support: Visit the Mental Health Support page for important resources and comforting doggo images.
+
+Bits GPT Chatbot: Engage with Bits GPT by asking questions related to academics or campus life. Bits GPT is here to help!
+
+Getting Started:
+
+To run SpaceHub locally on your machine, follow these steps:
+
+Clone this repository to your local machine:
+
+bash
+Copy code
+git clone https://github.com/your-username/SpaceHub.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd SpaceHub
+Open the index.html file in your preferred web browser to launch SpaceHub.
+
+Contributing:
+
+We welcome contributions from the community to enhance SpaceHub further. If you have any ideas, bug fixes, or new features to propose, feel free to submit a pull request.
+
+Credits:
+
+SpaceHub was created by [Your Name].
+Doggo images sourced from [Source Name].
+Bits GPT chatbot powered by OpenAI's GPT technology.
